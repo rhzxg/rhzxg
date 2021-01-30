@@ -9,7 +9,7 @@ I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing aritical
 
 🐟 My [**MessAround** ](https://dockerwebdev.com/) repo using for waching videos during work is in updating.
 
-🙉 There are two repos help students at my unversity get easier way to grab classes and evaluate at the end of whichever semester. Two repos:
+🙉 There are two repos help students at my unversity get an easier way to grab classes and evaluate at the end of whichever semester. Two repos:
 
 🐶[**Grabber**](https://github.com/CodingDogzxg/Grabber-for-QAU) is not in updating now cus I already got full points. If you are interested in this repo and would like to fix bugs, [contact me](mailto:codingdogzxg@gmail.com).
 
