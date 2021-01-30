@@ -19,6 +19,6 @@ I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing aritical
 
 ---
 
-<a href="https://github.com/CodingDogzxg/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingDogzxg&hide=tcl,c,xslt&show=c++,javascript&layout=compac" alt="top languages - yeah, including HTML" align="right" /></a>
+<a href="https://github.com/CodingDogzxg/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingDogzxg&hide=tcl,c,xslt&layout=compac" alt="top languages - yeah, including HTML c++ javascript" align="right" /></a>
 
 ## ✨ Check out my favorite lang here! ✨
