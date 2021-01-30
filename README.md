@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 I'm 郑相关
 
-<!--
-**CodingDogzxg/CodingDogzxg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am still a English major student at unversity.
+You may have seen my bio and story at [Codingdog.xyz](https://www.codingdog.xyz).
+I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing ariticals and thoughts more ofen.
 
-Here are some ideas to get you started:
+## 🚧 Current projects
+<a href="https://github.com/CodingDogzxg/MessAround"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingDogzxg&repo=MessAround" alt="progressive-image.js statistics" align="right"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐟 My [**MessAround** ](https://dockerwebdev.com/) repo using for waching videos during work is in updating.
+
+🙉 There are two repos help students at my unversity get easier way to grab classes and evaluate at the end of whichever semester. Two repos:
+
+    🐶[**Grabber**](https://github.com/CodingDogzxg/Grabber-for-QAU) is not in updating now cus I already got full points. If you are interested in this repo and would like to fix bugs, [contact me](mailto:codingdogzxg@gmail.com).
+    💥[**Evaluater**](https://github.com/CodingDogzxg/QAUAutoEvaluater) is in updating till I graduate from unversity. This helps students around me a lot, which can evaluate teachers by using TamperMonkey and js in a fast and automatic way without clicking mouse at all.
+    
+💡 If you find any of my repos helpful, please star the repo to give me more courage.
+
+---
+
+<a href="https://github.com/CodingDogzxg/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingDogzxg&hide=asp&layout=compac" alt="top languages - yeah, including HTML" align="right" /></a>
+
+## ✨ Check out my favorite lang here! ✨
