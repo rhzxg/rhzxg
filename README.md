@@ -1,5 +1,5 @@
 # 👋 I'm 郑相关
-<a href="https://www.zhihu.com/people/qaucodingdog"><img src="https://www.codingdog.xyz/api/zhihu_stats.php?username=qaucodingdog" align="right"></a>
+<a href="https://www.zhihu.com/people/qaucodingdog"><img src="https://pic2.zhimg.com/v2-a79315fc38413fc5f9d4ad805714fd5d_l.jpg" align="right"></a>
 
 I am still a English major student at unversity.
 You may have seen my bio and story at [codingdog.xyz](https://www.codingdog.xyz).
