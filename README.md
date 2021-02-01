@@ -5,11 +5,13 @@ I am still a English major student at unversity.
 You may have seen my bio and story at [codingdog.xyz](https://www.codingdog.xyz).
 I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing ariticals and thoughts more ofen.
 
+.
+
+.
+
+.
+
 ---
-
-
----
-
 
 ## 🚧 Current projects
 
