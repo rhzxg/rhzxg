@@ -17,7 +17,9 @@ I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing aritical
 
 <a href="https://github.com/CodingDogzxg/MessAround"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingDogzxg&repo=MessAround" alt="progressive-image.js statistics" align="right"></a>
 
-🐟 My [**MessAround** ](https://dockerwebdev.com/) repo using for waching videos during work is in updating.
+🐟 My [**MessAround** ](https://github.com/CodingDogzxg/MessAround) repo using for waching videos during work is in updating.
+
+🤑 My [**ZhihuStatistics**](https://github.com/CodingDogzxg/zhihu_stats) readme card generator repo is in updating now! It's awesome! I've already add it up upper in this readme!
 
 🙉 There are two repos help students at my unversity get an easier way to grab classes and evaluate at the end of whichever semester. Two repos:
 
