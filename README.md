@@ -19,7 +19,7 @@ I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing aritical
 
 🐟 My [**MessAround** ](https://github.com/CodingDogzxg/MessAround) repo using for waching videos during work is in updating.
 
-🤑 My [**ZhihuStatistics**](https://github.com/CodingDogzxg/zhihu_stats) readme card generator repo is in updating now! It's awesome! I've already add it up upper in this readme!
+🤑 My [**ZhihuStatistics**](https://github.com/CodingDogzxg/zhihu_stats) readme card generator repo is in updating now! It's awesome! I've already added it up upper in this readme!
 
 🙉 There are two repos help students at my unversity get an easier way to grab classes and evaluate at the end of whichever semester. Two repos:
 
