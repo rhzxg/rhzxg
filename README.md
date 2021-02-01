@@ -1,5 +1,5 @@
 # 👋 I'm 郑相关
-<a href="https://www.zhihu.com/people/qaucodingdog"><img src="https://www.codingdog.xyz/api/zhihu_stats.php?username=qaucodingdog" align="right"></a>
+<a href="https://www.zhihu.com/people/qaucodingdog"><img src="https://www.codingdog.xyz/api/zhihu_stats.php?username=qaucodingdog" alt="知乎数据卡片生成器" align="right"></a>
 
 I am still a English major student at unversity.
 You may have seen my bio and story at [codingdog.xyz](https://www.codingdog.xyz).
@@ -15,7 +15,7 @@ I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing aritical
 
 ## 🚧 Current projects
 
-<a href="https://github.com/CodingDogzxg/MessAround"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingDogzxg&repo=MessAround" alt="progressive-image.js statistics" align="right"></a>
+<a href="https://github.com/CodingDogzxg/MessAround"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingDogzxg&repo=MessAround" alt="MessAround repo" align="right"></a>
 
 🐟 My [**MessAround** ](https://github.com/CodingDogzxg/MessAround) repo using for waching videos during work is in updating.
 
@@ -31,6 +31,6 @@ I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing aritical
 
 ---
 
-<a href="https://github.com/CodingDogzxg/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingDogzxg&hide=tcl,xslt&layout=compac" align="right" /></a>
+<a href="https://github.com/CodingDogzxg/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingDogzxg&hide=tcl,xslt&layout=compac" alt="favorite langs list" align="right" /></a>
 
-## ✨ Check out my favorite lang here! ✨
+## ✨ Check out my favorite langs here! ✨
