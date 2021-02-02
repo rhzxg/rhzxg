@@ -5,7 +5,7 @@ I am still a English major student at unversity.
 You may have seen my bio and story at [codingdog.xyz](https://www.codingdog.xyz).
 I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing ariticals and thoughts more ofen.
 
-💑 By the way, I really like typing front-end codes, especially those with css animations. I've also done some refering [For my special](https://www.codingdog.xyz/iLoveMby). Lots of its code was not wrote by my own though, I picked out the usful part of code out and it worked well. By the new year's eve of 2021, I will push the files to github and you guys can copy. Good luck. 
+💑 By the way, I really like typing front-end codes, especially those with css animations. I've also done some refering [For my special](https://www.codingdog.xyz/iLoveMby). Lots of its code was not wrote by my own though, I picked the usful part of code out and it worked well. By the new year's eve of 2021, I will push the files to github then you guys can see. Good luck. 
 
 ---
 
