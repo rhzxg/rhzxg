@@ -14,7 +14,7 @@ I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing aritical
 
 <a href="https://github.com/CodingDogzxg/MessAround"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingDogzxg&repo=MessAround" alt="MessAround repo" align="left"></a>
 
-<a href="https://github.com/CodingDogzxg/MessAround"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingDogzxg&repo=zhihu_stats" alt="ZhihuStats repo" align="right"></a>
+<a href="https://github.com/CodingDogzxg/zhihu_stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingDogzxg&repo=zhihu_stats" alt="ZhihuStats repo" align="right"></a>
 
 <br>
 
