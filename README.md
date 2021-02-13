@@ -1,7 +1,7 @@
 # 👋 I'm 郑相关
 <a href="https://www.zhihu.com/people/qaucodingdog"><img src="https://www.codingdog.xyz/api/zhihu_stats1.php?username=qaucodingdog" alt="知乎数据卡片生成" align="right"></a>
 
-I am still a English major student at unversity.
+I am still a English major student at university.
 You may have seen my bio and story at [codingdog.xyz](https://www.codingdog.xyz).
 I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing ariticals and thoughts more ofen.
 
