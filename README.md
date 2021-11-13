@@ -2,7 +2,7 @@
 <a href="https://www.zhihu.com/people/qaucodingdog"><img src="https://www.codingdog.xyz/api/zhihu_stats1.php?username=qaucodingdog" alt="知乎数据卡片生成" align="right"></a>
 
 I am still a English major student at university.
-You may have seen my bio and story at [codingdog.xyz](https://www.codingdog.xyz).
+You may have seen my bio and story at [codingdog.xyz](http://codingdogzxg.github.io).
 I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing articals and thoughts more ofen.
 
 💑 By the way, I really like typing front-end codes, especially those with css animations. I've also done some refering [For my special](https://www.codingdog.xyz/iLoveMby). Lots of its code was not wrote by my own though, I picked the usful part of code out and it worked well. By the new year's eve of 2021, I will push the files to github then you guys can see. Good luck. 
