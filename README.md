@@ -41,7 +41,5 @@ I use [zhihu.com](https://zhihu.com/people/qaucodingdog) for publishing articals
 💡 If you find any of my repos helpful, please star the repo to give me more courage.
 
 ---
-
-<a href="https://github.com/CodingDogzxg/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingDogzxg&hide=tcl,xslt&layout=compact" alt="favorite langs list" align="right" /></a>
-
-## ✨ Check out my favorite langs here! ✨
+##  ✨ Check out my favorite langs here! ✨
+<a href="https://github.com/CodingDogzxg/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingDogzxg&hide=tcl,xslt&layout=compact" alt="favorite langs list" align="left" /></a>
