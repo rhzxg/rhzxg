@@ -2,23 +2,6 @@
 
 ## 🚧 Current projects
 
-
-<a href="https://github.com/CodingDogzxg/SurfaceInk-Chaos9527"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingDogzxg&repo=SurfaceInk-Chaos9527" alt="SurfaceInk-Chaos9527 repo" align="left"></a>
-
-<a href="https://github.com/CodingDogzxg/zhihu_stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodingDogzxg&repo=zhihu_stats" alt="ZhihuStats repo" align="right"></a>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 🐟 My [**MessAround** ](https://github.com/CodingDogzxg/MessAround) repo using for waching videos during work is in updating.
 
 🤑 My [**ZhihuStatistics**](https://github.com/CodingDogzxg/zhihu_stats) readme card generator repo is in updating now! It's awesome! I've already added it upper in this readme!
@@ -30,7 +13,3 @@
 💥 [**Evaluater**](https://github.com/CodingDogzxg/QAUAutoEvaluater) is in updating till I graduate from university. This helps students around me a lot, which can evaluate teachers by using TamperMonkey and js in a fast and automatic way without clicking mouse at all.
     
 💡 If you find any of my repos helpful, please star the repo to give me more courage.
-
----
-##  ✨ Check out my favorite langs here! ✨
-<a href="https://github.com/CodingDogzxg/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingDogzxg&hide=tcl,xslt&layout=compact" alt="favorite langs list" align="left" /></a>
