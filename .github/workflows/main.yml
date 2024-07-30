@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          user: CodingDogzxg
+          user: rhzxg
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
